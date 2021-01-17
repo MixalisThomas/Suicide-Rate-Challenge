@@ -1,0 +1,16 @@
+name: ramp-suicide
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyter
+  - geopandas
+  - country-converter
+  - pip:
+      - ramp-workflow

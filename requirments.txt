@@ -1,0 +1,11 @@
+numpy
+matplotlib
+sklearn
+pandas
+ramp-workflow
+scipy
+scikit-learn  
+seaborn
+jupyter
+geopandas
+country-converter
